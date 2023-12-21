@@ -1,0 +1,7 @@
+D:\215\T13_P1\obj\Debug\T13_P1.csproj.AssemblyReference.cache
+D:\215\T13_P1\obj\Debug\T13_P1.csproj.CoreCompileInputs.cache
+D:\215\T13_P1\bin\Debug\T13_P1.exe.config
+D:\215\T13_P1\bin\Debug\T13_P1.exe
+D:\215\T13_P1\bin\Debug\T13_P1.pdb
+D:\215\T13_P1\obj\Debug\T13_P1.exe
+D:\215\T13_P1\obj\Debug\T13_P1.pdb
